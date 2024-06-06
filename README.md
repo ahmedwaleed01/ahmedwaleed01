@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! I'm Ahmed Waleed👋</h1>
 <h3 align="center">A passionate computer engineer student</h3>
 <div align="center">
-<img src="https://giphy.com/embed/quEsMOrr3hmQ8" width="200" height="200">
+<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/quEsMOrr3hmQ8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/matrix-awesome-gifs-gif-quEsMOrr3hmQ8">via GIPHY</a></p>
 </div>
-    
+
 ## 🌱 Learning and Development
 
 - Currently learning about advanced machine learning techniques.
