@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Ahmed Waleed👋</h1>
 <h3 align="center">A passionate computer engineer student</h3>
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhhZ21weGtkNmlkb3AydDlkNWRudXVwMWJtOGZ4cGp3NjViN2x2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/quEsMOrr3hmQ8/giphy.gif" width="200" height="200">
+<img src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif?cid=ecf05e47zybe5derngej70denae2acsq9g5q2vbllps0awhh&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" height="200">
 </div>
 
 ## 🌱 Learning and Development
