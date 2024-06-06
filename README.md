@@ -1,12 +1,9 @@
 <h1 align="center">Hi there! I'm Ahmed Waleed👋</h1>
 <h3 align="center">A passionate computer engineer student</h3>
 <div align="center">
-<img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="200" height="200">
+<img src="https://giphy.com/embed/quEsMOrr3hmQ8" width="200" height="200">
 </div>
-<p align="left">![ahmedwaleed01](https://img.shields.io/badge/Username-ahmedwaleed01-blue) </p>
-
-![ahmedwaleed01](https://img.shields.io/badge/Username-ahmedwaleed01-blue)
-
+    
 ## 🌱 Learning and Development
 
 - Currently learning about advanced machine learning techniques.
