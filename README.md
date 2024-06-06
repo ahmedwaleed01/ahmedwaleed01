@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Ahmed Waleed👋</h1>
 <h3 align="center">A passionate computer engineer student</h3>
 <div align="center">
-<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/quEsMOrr3hmQ8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/matrix-awesome-gifs-gif-quEsMOrr3hmQ8">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhhZ21weGtkNmlkb3AydDlkNWRudXVwMWJtOGZ4cGp3NjViN2x2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/quEsMOrr3hmQ8/giphy.gif" width="200" height="200">
 </div>
 
 ## 🌱 Learning and Development
