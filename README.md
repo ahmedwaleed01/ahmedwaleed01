@@ -1,17 +1,86 @@
-<h1 align="center">Hi there! I'm Ahmed Waleed👋</h1>
-<h3 align="center">A passionate computer engineer student</h3>
-<div align="center">
-<img src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif?cid=ecf05e47zybe5derngej70denae2acsq9g5q2vbllps0awhh&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="250" height="200">
-</div>
-
-## 🌱 Learning and Development
-
-- Currently learning about advanced machine learning techniques.
-- Interested in contributing to open-source projects related to web development and AI.
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-waleed-7724a5206/)
-
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>  </p>
+<h1 align="center">Hi, I'm Ahmed Waleed</h1>
+<h3 align="center">Software Engineer · Full-Stack & AI Integration</h3>
+ 
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+<br/>
+- 🎓 **MSc Software Engineering** — Universität Hildesheim, Germany (2026–present)
+- 💼 **Software Engineer Intern** — Incrypt Solutions, Cairo (AI-powered LMS, full-stack)
+- 🛠️ **Software Engineer Trainee** — Siemens Digital Industries Software, Cairo
+- 🎓 **Teaching Assistant** — Cairo University (Computer Science & Software Engineering)
+- 🌍 Based in **Hildesheim, Germany**
+- 📫 Reach me at **Ahmed.waleed1303@gmail.com**
+---
+ 
+### About Me
+ 
+I build AI-driven, production-ready web applications — from LLM-backed pipelines to full-stack platforms. My work spans REST/GraphQL API design with FastAPI and Node.js, React/Next.js frontends, and integrating LLMs into real product features: course generation, retrieval-augmented Q&A, and spaced-repetition scheduling. I care about clean architecture, async patterns, and shipping code that's actually maintainable, not just working demos.
+ 
+🔎 Currently looking for a **Werkstudent** role in software engineering / AI integration, ideally on public sector digitalization projects in Germany.
+ 
+---
+ 
+### Technical Skills
+ 
+**Languages**
+`C` `C++` `JavaScript` `TypeScript` `Python` `Java`
+ 
+**Frontend**
+`React` `Next.js` `Vite` `Tailwind CSS`
+ 
+**Backend**
+`Node.js` `Java Spring Boot` `FastAPI` `REST APIs` `GraphQL` `Socket.IO`
+ 
+**AI / Machine Learning**
+`TensorFlow` `PyTorch` `BERT` `Transformers` `spaCy` `OpenCV` `LLM APIs` `RAG Systems` `Vector Databases` `SVM` `XGBoost`
+ 
+**Tools & Infrastructure**
+`Git` `Linux` `Docker` `CI/CD` `PostgreSQL` `MongoDB` `Agile/SDLC` `OOP` `Design Patterns`
+ 
+---
+ 
+### Featured Projects
+ 
+| Project | Description | Tech |
+|---|---|---|
+| **RAG Document Q&A System** | Ingests documents, generates embeddings, and answers queries via a configurable LLM backend with pluggable providers | Python, FastAPI, MongoDB, Vector DB, LLM APIs |
+| **Reddittech – Reddit Clone** | Full-featured Reddit app with auth, post creation, commenting, upvoting/downvoting, and subreddit management | React, TypeScript, Tailwind CSS, Socket.IO |
+| **Real-Time Collaborative Text Editor** | Collaborative editor with auth, file management, viewer/editor access control, and real-time sync via CRDT for concurrency and cursor movement | React, Java Spring Boot, MongoDB, Socket.IO, CRDT |
+| **Compiler / Interpreter** | Parser for a custom language with hierarchical symbol tables and a register descriptor table; generates intermediate code (quadruples) for memory allocation, assignment, and arithmetic | C/C++, Bison |
+| **Audio Recognition & Age Estimation** | Classical ML pipeline extracting acoustic features from audio signals, training SVM, XGBoost, and ensemble models for speaker age estimation | Python, SVM, XGBoost |
+ 
+---
+ 
+### Certifications
+ 
+- **Supervised Machine Learning** — Stanford University / DeepLearning.AI (Coursera)
+- **Exploratory Data Analysis for Machine Learning** — IBM (Coursera)
+- **ECPC** (Egyptian Collegiate Programming Contest) — Participant, 2023
+---
+ 
+### Connect With Me
+ 
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmedwaleed-7724a5206" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+</p>
+---
+ 
+### Languages & Tools
+ 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
