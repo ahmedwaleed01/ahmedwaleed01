@@ -18,7 +18,7 @@
 
 I build AI-driven, production-ready web applications — from LLM-backed pipelines to full-stack platforms. My work spans REST/GraphQL API design with FastAPI and Node.js, React/Next.js frontends, and integrating LLMs into real product features: course generation, retrieval-augmented Q&A, and spaced-repetition scheduling. I care about clean architecture, async patterns, and shipping code that's actually maintainable, not just working demos.
 
-🔎 Currently looking for a **Werkstudent** role in software engineering / AI integration, ideally on public sector digitalization projects in Germany.
+🔎 Currently looking for a **Werkstudent** role in software engineering / AI integration in Germany.
 
 ---
 
@@ -64,7 +64,7 @@ I build AI-driven, production-ready web applications — from LLM-backed pipelin
 ### Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmedwaleed-7724a5206" target="blank">
+<a href="https://www.linkedin.com/in/ahmed-waleed-7724a5206/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
 </a>
 </p>
